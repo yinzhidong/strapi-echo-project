@@ -1,0 +1,1015 @@
+{
+  "data": {
+    "restaurants": [
+      {
+        "id": "1",
+        "description": "ASPIC is a human sized Parisian restaurant located in the heart of the 9th district, close to Place Pigalle. ASPIC serves a seasonal set menu that changes every month and dishes are served by the chefs for a better dinning experience. We serve organic and natural wines.",
+        "district": "_9th",
+        "cover": [
+          {
+            "url": "/uploads/29d5f5ef9bbc4a438cfb9a9299fd0607.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/48f5da81ca8e460eb29591605fa6edba.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/2f600e2114994432ae78a3d05e94e133.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/063efd98c5b7401f9ea00864211095ed.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "French",
+          "__typename": "Category"
+        },
+        "name": "ASPIC",
+        "note": 5,
+        "price": "_4",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Formidable!\nA fantastic restaurant. Service was outstanding and food delicious. The staff of this restaurant are at the top of their game. The pollock fish dish was exceptionally good. If only more restaurants are as focused on customer satisfaction to the extent that this one is. Well done ASPIC!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Exceptional experience\nThe chef Quentin, prepared us a wonderful diner. Very refind palet of tastes on the various beautiful served courses. The choclate desert was beyond expectation. \nService very friendly and helpfull. It would not suprise me when Aspic gets a star in the very near future.\nVaut le détour!!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Paris fine dining at its best\nThe service, food, and intimate setting was everything you would wish for in a premier restaurant in Paris. Each dish was unique and of top quality in both ingredients and preparation. The wine pairing was excellent and the server was fun, pleasantly informal, but extremely knowledgeable and vigilant.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Lovely evening\nMe and my wife visited the restaurant after reading all the reviews on here and had a truly exceptional evening. We were made to feel very relaxed from the start and a pleasant atmosphere remained throughout. Every course worked well and I thought the wine accompanied it perfectly. We both left satisfied and full.\n\nDue to my wife being pregnant the chef ensured all of her dishes were slightly more well done (although it must of hurt him inside having to overcook the duck )",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Elegant in all ways\nASPIC was the main fake fancy dinner that we had planned for our Paris trip, we left it for the very last night, and were eagerly anticipating the multiple course tasting menu!The restaurant did not disappoint, most impressive was the elegant service, breathtaking all around experience.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "28",
+        "description": "This restaurant makes us ... Spoiled Kids! The interior is adorned with beautiful contemporary hues; on the walls, quotes from great chefs and some recipes give an almost \"literary\" side to the room.",
+        "district": "_14th",
+        "cover": [
+          {
+            "url": "/uploads/f12f7dbc3e4d4c65ab6783d4f6fab084.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/4b66f90a305f43f1b6e5ea76e65cbb31.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/26bd1244a0e84b9da76bdff1187df008.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/cc91373a9b194875a10f8b6b4a112855.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Contemporary",
+          "__typename": "Category"
+        },
+        "name": "Aux Enfants Gates",
+        "note": 5,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Excellent lunch\nThere are countless great restaurants in Paris but this whole in the wall stood out on our recent trip. We were headed to the catacombs and were deterred by the line. Thus we decided to do what we did every day - and had a 2 hour lunch instead. \n\nWe caught the end of the lunch hour and we’re the only ones there. The server was a little annoyed at first - I think he was hoping to go home. But he shortly warmed up and was great. The food was fabulous. The dessert really good. There are only 10 tables or so - one guy up front and the owner/chef in back. \n\nI would highly recommend it to anyone staying in Montparnasse or doing the tourist visit to the catacombs.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Delicious dinner for two\nDelicious food, very tasty! The service was perfect aswell! I would recommend this restaurant for anybody who would like an authentic french evening.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Cozy, intimate and excellent\nThis hole-in-the wall restaurant, elegantly decorated in blue, white and red, is a short (approx 15 min) walk from the catacombs, through a charming neighborhood, pedestrian market included. If you're looking for an upscale, delicate, delicious and friendly restaurant, you can't do better. Our waiter, Fabian, saw that our French was terrible, and made sure, with good humor and jokes tossed in, that we understood everything we were about to order. Since we went for lunch, there were only two other tables seated for lunch, and together, we built a rapport that made our lunch even more special. I cannot recommend it more highly. We look forward to returning to Paris, and AUX Enfants Gates! (Not LES Enfants Gates! that's a different restaurant!)",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Excellent restaurant do not miss it\nThis is a very good small restuarant with a cosy athmosphere. Nice decoration, very good table service, a nice and efficient waiter. Excellent food and wine, what you expect of a restaurant with stars in the Michelin guide. All this at a convenient price. I strongly recomment it",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Fantastic meal\nWe had a fantastic meal with excellent service. Standout dishes were the fresh crab starter and cheesecake dessert. Would defintley recommend!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Simply perfect!\nI came to this small and cosy restaurant with some colleagues tonight based on a recommendation and because it is well located in relation to our office. I have to say, it was simply perfect! The food was very nicely presented, very fresh and extremely tasty. The one thing that made the evening perfect was our waiter. Funny, attentative, relaxed and very knowledgeable - this was the cherry on the cake. In addition, no frills when you pick up the bill, the value for money is great. I highly recommend this restaurant and I know that I will be back.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Great place in the 14th\nTop place with cool waiter really loving it. Dishes change periodically, quality food, revisited with great taste. A must go if you are in this area. Expect to pay 40ish/person without drinks.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "21",
+        "description": "These deliciously made meringue pastries literally melt in your mouth!",
+        "district": "_16th",
+        "cover": [
+          {
+            "url": "/uploads/3cccaad906dd46d2b5b3eb4a9d9c0d76.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/52643a5244e64b50a9a0a67e0af391cb.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/b3e452041cca46b7ba603b7a1b82aa86.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/da411d4dc0334955b352fee0e1a60f2a.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Dessert",
+          "__typename": "Category"
+        },
+        "name": "Aux Merveilleux de Fred",
+        "note": 5,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Marvelous Merveilleux\nStopped by to try merveilleux, a pastry previously unknown to me. The shop is beautiful and clean. The chandelier was spectacular and really made the shop special. We tried the traditional merveilleux and a pain au chocolat. The merveilleux was a wonderfully light meringue with whipped cream and chocolate. It was light, crisp, and not too sweet. The pain au chocolat was even better than the merveilleux. We will be back!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "These deliciously made meringue pastries literally melt in your mouth! And I couldn’t stop eating!\nThese are by far my favourite pastries in all Paris!! So light and delicious! I bought a dozen of these to share with the boyfriend and we easily finished them within minutes! \n\nThe store is within walking distance from the Eiffel Tower. I always paid a visit to this place every time I came to Paris! \n\nThese meringue cakes are way too underrated! They seriously need to open up more stores worldwide!!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Best meringue cake around\nThere will be other bakeries trying to make a similar cake, but just go to this place (it is a chain.) Over the years I have tried similar cakes, always more dense and heavy. Other reviewers have already adequately described how good they are - the lightness and just the right amount of sweet.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Fantastic!\nJust go there, you will know what I am talking about. This place is wonderful and the pastries and meringues are incredible, you will not be dissapointed.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Deserts that melt in your mouth\nWe loved the merveilleux, in room temperature, you must eat it within 1 hour. If refrigerated, it can last for 1-2 days according to the store staff.\nIt's best to eat it fresh.\nThey have white chocolate, dark chocolate, coffee, hazelnut, and 1-2 more flavors. \nDelicious. \nI've never seen something quite like this one, a chocolate dessert that melt in your mouth.\nThey have multiple locations in Paris.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "26",
+        "description": "Discover all the riches of Africa with BMK Paris-Bamako! Canteen grocery store in Paris",
+        "district": "_10th",
+        "cover": [
+          {
+            "url": "/uploads/04e20a3d1fbd44199e3b5ce22f565175.jpg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/1a720879312e4c0ebc9c48675b365d48.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/36c6d7fa6d874a6ab1373e950fde1742.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/a1e31663399d4d3faef55b364c4252c2.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "African",
+          "__typename": "Category"
+        },
+        "name": "BMK Paris-Bamako",
+        "note": 4.8,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "African taste\nCouple night at BMK. The staff is really nice, the restaurant is well designed and enjoyable. The food is wonderfull, tasty and unusual (for those unfamiliar with African cuisine). A must try in Paris !",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "cute african style canteen - many vegetarian options\nBMK Paris Bamako is a canteen style restaurant that offers african dishes, revisited to fit the parisians taste. \n\ni particularly appreciated the fact that there were many vegetarian dishes available.\n\ncompared to a traditional african restaurant service is much faster, prices are higher, and dishes don't have as much flavour. \n\nOverall great option for a nice lunch.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Excellent food in a charming place\nWent for lunch with a friend. The place is cute, the food delicious, the staff super friendly and welcoming! I loved the Mafe and the plantain 😍😍! I will definitely come again and highly recommend :).",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "A beautiful space to experience African flavours\nI was very curious about this restaurant after passing by several times, this area of Paris has an abundance of world kitchen restaurants so it can be a bit over whelming to pick a place to eat when exploring this part of town. However this place kept drawing my attention because of its stylish African inspired interior and shelves with special food products.\n\nWe decided to go for dinner and enjoyed a vegan senegalese mafe and a vegan durban salad plus a home made ginger drink. All the food served is from different locations in Africa, but they don’t do typical North African, Moroccan food who are already well established world wide with their tagine dishes.\n\nThe mafe was delicious and the salad too, it’s interesting to discover this kind of food because African restos are more scarce than many other world kitchens in general. \n\nFor dessert I had a slice with gluten free sponge cake with raspberries and pistachios, it was baked with cassava flour and tasted very fresh. A perfect ending with the aromatic Ethiopian coffee. \n\nThe service and interior are impeccable, if you’re curious about African food this is a good place to start. The prices are very reasonable too.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Surprisingly good\nVery nice and pragmatic atmosphere. Nice ladies on the neighboring table gave us to get the price for the right food.there was no wine, but that we got half the words in the bistro got good food, is your most fear, but of students good place to stay in the evening",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "4",
+        "description": "Your dinner cruise on a boat barge on the Seine river, dining out Paris.",
+        "district": "_6th",
+        "cover": [
+          {
+            "url": "/uploads/05b96a46ea2b4b7bb045bd8b000bedb3.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/e705591685f34e7a9b56b794d545b5b3.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/22c8d9281f7a4c03bed5fa4178ccfcbe.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/5d81455f4ad34e33a520c94ac3cc5947.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Vegan",
+          "__typename": "Category"
+        },
+        "name": "Bateau le Calife",
+        "note": 4.2,
+        "price": "_3",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "So worth a trip on le Calife\nMy sister and I enjoyed a wonderful evening on le Calife. The food and cocktails were absolutely delicious. All the staff were very attentive.\nThe highlight was passing the Eiffel Tower and seeing it light up. It was a lovely way to spend our last night. I would highly recommend going on trip.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Extraordinary ♥️♥️\nA splendid experience,cruising down The Seine is the most romantic thing you can ever do in Paris.\n\nAnd Le Calife is the best boat option.\nWith the cozy oriental interiors the romantic atmosphere and the very friendly staff enjoy you trip.the best idea for proposing ♥️, specially when you pick the right time when the boat is next to the Eiffel Tower at 10 pm while it’s bluffing it’s light\n\nTha food is either three meals course or five meals course , \nGuys the food is Super\nA REALLY WOUNDERFUL EXPERIENCE ♥️♥️",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Brilliant\nWhat a wonderful evening - lovely food (guinea fowl was delicious), attentive, friendly, efficient staff. Would certainly recommend this trip, saw all the sites. Lovely atmosphere onboard and nice and warm on a cold evening.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Lovely experience for a special occasion\nAfter researching the absolute best river cruise with dinner, it seems unanimous that this was the best.\n\nThe service was lovely, the wine was tasty and the food was quite good to say it was cooked in a small kitchen on a boat. The only issue being the sauce with the steak needed to be sent back as it was cold.\n\nThis is a must do if you're here for a special occasion as they send the desert out with a little sparkler.",
+            "__typename": "Review"
+          },
+          {
+            "note": 1,
+            "content": "Fell at the First Hurdle...\nI would love to be commenting on the gastronomic delights which this experience claims to offer, but after trying twice to follow up on my booking via the phone (to pay the deposit) and only getting an answer machine, I gave up. \nI left my details but never got any response - despite my calls being well within the 'office hours' mentioned on the recording.\nThere are plenty of other options out there - alternatives are worth considering.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "11",
+        "description": "The Darling New Secret Crêperie: The signature : crêpes and pancakes as pimped as Kim Kardashian on the red carpet (this is a compliment, Kim if you follow us)",
+        "district": "_2nd",
+        "cover": [
+          {
+            "url": "/uploads/1a1e9c2f1129455281aa1333f7aafcc8.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/1b1977ebcaf949db980de397bdda36ad.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/f2759b0d63c24dd3987841f23aad0707.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/f77f7b1d36bc4ceab5e9e510fee3b1b6.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "French",
+          "__typename": "Category"
+        },
+        "name": "Bisou Creperie",
+        "note": 4.6,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Very tasty and good price\nduring a recent visit we wanted to try a crepe and trip advisor review led us here. we were very pleased with our choice as the food and drinks were both very good and reasonably priced. I had the steak crepe and my fiancé the chicken one. highly recommend for a lunch trip if you are looking for a crepe",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "best crepes ever!\ni have been in Paris many times, but I ve never eat some crepes like those!!! just magnifique!good service and funny guys!",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "Great crepes in a fantastic location\nWe were recommended to visit the Passage des Panoramas by our hotel receptionist, when looking for a light-bite nearby. It’s such a beautiful arcade, jam-packed with lovely looking restaurants and bars. We had a lovely, casual meal in this Creperie. The food is yummy, the service is quick and polite, and the staff don’t mind you trying to practice your terrible French on them!",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "Crêpes in Paris\nThe menu offers several alternatives, including vegetarian crepes. We tried Popeye Power and Chiquita, then Cookie’n’crime for dessert. Ingredients and dough were good, but we preferred the sweet one. A bit pricey.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Great crepes. Great service.\nWe came here for lunch and the service was excellent. I had the Chiquita and my wife had the Marius and Fanny (giggle). Both were so good we decided to have a sweet crepe to finish. We highly recommend the Madagascan vanilla ice cream with it.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "27",
+        "description": "Located in the heart of the 19th century, just a stone's throw from the Halle Secrétan, the Café Bolivar is a pretty café-brasserie neighborhood, with a warm and relaxed atmosphere. The cuisine is homemade thanks to fresh products. In fine weather, the terrace offers a magnificent view. A typical Parisian address!",
+        "district": "_19th",
+        "cover": [
+          {
+            "url": "/uploads/df4b289827c64902b59b8f957ddc05c4.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/cb8934b80115483ea789e16231942f20.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/dd5bf235c86149fc991ac7fb3375bb8e.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/56301de0837f4818b80610a8c71b94ad.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "French",
+          "__typename": "Category"
+        },
+        "name": "Cafe Bolivar",
+        "note": 4.833333333333333,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Worth a trip\nDefinitely worth a visit, good food and great service. Groups of us all really enjoyed our meals. Reccommended",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Delicious food, great atmosphere\nWent for lunch and a drink in this lovely bar that happened to be around the corner from where we were staying. Food was delicious and arrived within 10 minutes of ordering, great and attentive service and good laidback atmosphere to relax and enjoy a drink, highly reccommend!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "I loved it\nI were there yesterday and I had a really great time. The place is beautiful and waiters are great. I loved the “bavette” with its sauce ❤️",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "Great location and service\nThis restaurant was close t our hotel and we went there based on TripAdvisor rating. Service was very good and we all enjoyed our food.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Recommended!\nLovely atmosphere, very quick and friendly service, nice neighborhood. We tried salmon with veggies and salmon-feta salad, both delicious. Coffee is also good, which is not granted in Paris :)",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "I liked everything\nWhile ln a 6 day vacation in Paris, i went to Cafe Bolivar for lunch every single day!\nLovely food, lovely staff and a homey atmosphere.\nGoing to Cafe Bolivar is a must if you plan on coming to Paris",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "3",
+        "description": "If you like Mediterranean and exotic dishes, then discover Can Alegria. This new restaurant set in the heart of the Pigalle neighborhood, this new place has been designed by Marc-Antoine Colonna and Matthieu Lecomte.",
+        "district": "_9th",
+        "cover": [
+          {
+            "url": "/uploads/b2f1a916549e4857a2735831b98fc5c0.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/8591e6e5719944389f7b666ea11a66bf.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/05db335321794210a7f2c1591df54d20.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/e2b7a9488e504269b0c8268ffa163225.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Mediterranean",
+          "__typename": "Category"
+        },
+        "name": "Can Alegria Paris",
+        "note": 4.2,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Weekend trip to Paris / excellent Dinner\nWe started our weekend in Paris with a great dinner in Can Algeria Paris. We ordered 3 different main courses- very delicious. And the services had been obliging.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "World class experience!\nWorld class experience..food is amazing can t wait to go back there.i don t like entrecote cause generaly this piece of beef is full of fat but the CAN ALEGRIA one is fantastic great staff.. 50 m from one of the famous club of Paris Le rouge wonderful night !!!",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "Great, but noisy!!\nWe had a very nice dinner - the service was great, the food was colorful and tasteful. The best thing are the combinations of the ingredients. The negative side was that it was sooooo loud and crowded - very little space in between the tables and too many people for the space and the bathrooms.",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "Cosy and simple with good food\nI went here with some friends and we shared a bottle of red some starters and the Octopus as main dish. The ambient is warm and cosy yet simple. Food was pretty and tasty just a little expensive referring to the portions. Service was very kind but very slow.",
+            "__typename": "Review"
+          },
+          {
+            "note": 3,
+            "content": "Ok\nNice decor. Fairly cold temperature in the restaurant. \n\nMenu is limited with only 5 or so mains. Only one option for vegetarian main.\n\nHad the cauliflower as a starter- quite bland - only a minimal amount of sauce.\n\nThere was a miscellaneous chunk of meat in the quinoa in the fish dish. \n\nFairly pricey for the quality of food.\n\nStaff were friendly enough.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "10",
+        "description": "Cézembre is a coastal island located in the bay of Saint-Malo (Ille-et-Vilaine, north-east of Brittany). \n\nOur bistro restaurant is rooted in it.\n\nLocated in a small street of the sixth district of Paris between the metro stations Odeon and Mabillon, we offer a cuisine between land and sea based on seasonal products.",
+        "district": "_6th",
+        "cover": [
+          {
+            "url": "/uploads/341731eeddf9411eaeaa9b01aa1c6bf8.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/fd15670843a54bf5a58852bbb454fb1d.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/23ddaf9d7971435183b8f720f04a0430.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/7923a72ae36f405085cc26395a1ef5aa.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Local",
+          "__typename": "Category"
+        },
+        "name": "Cezembre",
+        "note": 4.8,
+        "price": "_4",
+        "reviews": [
+          {
+            "note": 4,
+            "content": "Cozy space, decent staff, good food\nCézembre occupies a small, unassuming space in a small, nondescript street. It seems to be fully booked—or nearly—on most days. We, like many others, couldn’t get in as walk-ins but were able to reserve a table for dinner a couple of days later, \n\nThere’s nothing lavish about the space, but it does offer an air of neighborhood coziness. Everyone seems fairly relaxed, and there is a mix of clientele. Not surprisingly, there are many foreigners, but on the day we were there, there were definitely some French voices as well. \n\nThe details of the menu and service are described in numerous other posts, so I’ll just comment on the food. On the day we were there, we found most of the dishes to be quite rich. This is not to say that the flavors were bad or the execution poor, but the foie gras, cream and butter eventually took their toll and three of the four of us were feeling very full by the time the main course came around. \n\nWe don’t mind rich food on occasion, and it’s quife possible that the richness varies in accordance with the raw ingredients. It was a bit too much this time, but we’d really have to come back and try it again to see if it was just a one-off.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Gorgeous food, great service and ambiance. Loved this.\nWe thoroughly enjoyed a fantastic 5 course dinner at Cézembre.\n\nThe welcome was friendly and the service attentive. Each dish in the five course menu was outstanding in quality, taste combinations and presentation. Textures were cleverly combined and the price was reasonable. This is an outstanding small restaurant. It was very romantic too.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Worth the hype\nNot much to say, other than strongly recommend that you give this place a try - you will not regret it! This was a truly terrific all-around experience; from the service, to the atmosphere, and, of course, the food! As noted elsewhere, they only offer a 6-course menu for 65 euros that delivers a spectacular experience at a fraction of the price of what you would pay at a similar (yet inevitably inferior) place in the states. The portions, though obviously small, were extremely high quality and were more than sufficient to leave you super full yet satisfied.The staff were also incredibly courteous and were happy to accommodate my fiancé, who is a vegetarian- she highly approves of her meal as well! They also paid attention to the little details, like warming our jackets so that we wouldn’t be cold when we left. Highly recommended!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "An absolute winner - and a great value\nLunch, and I believe dinner, changes daily (or close to it) and it’s fixed-menu - at a very reasonable price. \n\nI had lunch. The appetizer was a stunning langoustine in a Granny Smith curried apple sauce and foam. Simply delicious and perfectly cooked (i.e. not overcooked). The main course was a marinated quail in wine reduction with chestnuts, mushrooms and delightful little vegetables. The portion was generous but still sensible. The wine pairings were spot-on and reasonably priced.\n\nThe chef appears to work alone in the tiny kitchen. While the restaurant is quite small (maybe 30 seats) it was full, and the dishes came out at a very reasonable pace. There were two male waitstaff who were informative, friendly, professional and explained things in French or English depending of the guest’s preference.\n\nGiven that the chef appears to work solo (though he may have prepping help I did not see) the fixed menu is probably his only option. This was certainly no problem for me the day I was there - I loved all the choices. That may not be true every day for everyone, so calling beforehand to hear what’s on the menu might be advisable. I had no choice, given a short stay in Paris, and don’t mind surprises anyway. I think this creative chef can make almost anything work unless you have an allergy or deep distaste for some ingredient.\n\nThis is an unqualified 5 in my book and I will be back.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Super nice food & friendly staff !! Would definitely go back when in Paris.\nWe were not sure if we could enter the restaurant with our pram. But the staff ensured us that they would make it possible for us to have a table where we could put the pram next to.\nAs we arrived in the restaurant, we had a nice table close to the kitchen where the pram could stand next to.\nThe food (a 5 course menu) was delicious ! The portions were quite large and the price (59 EUR) was very good for this menu. \nThe waiter made sure the wines matched the meals.\n\nWe definitely recommend this restaurant !",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "22",
+        "description": "Dining bar and delicatessen in the historic district of the Marais in Paris suggesting discovering products of countries come from Italy and from France. The amateurs, the regular customers of the district and the curious find themselves in a friendly and warm atmosphere to taste a selection of delicatessen, cheeses and products specially were selected for their authenticity.",
+        "district": "_4th",
+        "cover": [
+          {
+            "url": "/uploads/bbd18e1c2e424df6bd0a1adf7b06b03f.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/20d584e9ed894ffd963772bb96121d3c.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/f855f3a442664ce6b17fc7f6e2972343.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/025075e5d11b44f0b66b66101340c4b6.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Italian",
+          "__typename": "Category"
+        },
+        "name": "Comptoir Gourmet",
+        "note": 4.8,
+        "price": "_3",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Italy in Paris\nWe had lunch here. Great food and very kind staff. Outside Paris inside Italy. Be careful you don’t order too much! :) I wrote a review but forgot to mention the panna cotta. Ooooh the panna cotta......wow.......!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Amazing Service and Food\nWhat a great Trip Advisor recommendation that I came across. This place is fabulous as a great Italian place in Paris. The manager was very friendly as well as the server. I tried a plate of the day that was to die for. The place is cute and the atmosphere in a very nice neighborhood. The Prosecco was a very good bottle as well. I did the lemon meringue pie and that was superb!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Very little good restaurant\nGood deli restaurant Delicious cheese and sausages Cool atmosphere Semi bar quiet area wroth the visit\n\n",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "Lovely italian\nIn Le Marais there are many little, good restaurants to be found. This one is a small place, price/quality ok (burrata with truffel, 20 € but really, you can share it with your partner, that big and tasty!) with good service (at least here we had a lady who smile, which is hard to find in even expensive restaurants), and who offered us a cup of coffee for free, after we paid. I call that a superhost! Will def go back!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Fantastic dinner\nI had the chance to have dinner at Comptoir gourmet and as Italian I can say the food is authentic and very appreciated. Service is fantastic, they make you feel at home and please try their “piadina”, just delicious. I will surely come back when I am in Paris.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "18",
+        "description": "In our cheese aisle we combine the great French classics with our discoveries. We also show foreign cheeses less known in France.",
+        "district": "_1st",
+        "cover": [
+          {
+            "url": "/uploads/bdb95ff372e0430d9789b6acbcddff5b.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/4754cf06790b4c2f9c16e0b56617ccec.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/7ce0010c16a2404dad5b4c524447529e.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/1b7f5d7d35814ac283744ce40efacaf4.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Wine Bar",
+          "__typename": "Category"
+        },
+        "name": "Fromagerie Danard",
+        "note": 4.8,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Great experience.\nWe knew going to Paris we needed to do a cheese tasting. We went in not knowing anything about cheese or what kinds we liked. They asked what types of cheese we liked & if we we're willing to try anything a little different. We ended up with about 6 different cheeses which we we're told a little history of each, some meats & some bread. The experience was fantastic. If we ever end up in Paris again this is a stop we will make again.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Tasty\nActually I was going to buy some cheese and was looking for \"Fromagerie\". And bumped into this semi-shop semi-restaurant. They have cheese, wine, charcuterie. Thats all. But I found quality is good. The shop owner talks that mostly all the cheese is from small farms and I believe it's true. Anyway everything I bought there were really tasty (roquefort, young goat cheese and one piece of strange-looking green cheese).",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "Wine & cheese on a rainy day in Paris\nVisited here whilst away for our anniversary. We opted for the Tour De France paired with a wine recommendation from one of the helpful members of staff. His recommendations were excellent and the wine was also good. Overall, a great selection of cheese, and wines.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "More then good!!\nThis is my second time, my visit to Fromagerie Danard. It was really good again :) they know a lot about cheese , it’s nice to let them choosing for you! Then you taste something new!\nAnd they service they always good and friendly! Thank you again and see you next year. Greets Yordi Bon",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Absolutely awesome\nFantastic cheese shop with a few tables available to book for lunch. Great spot just off the beaten track. We ordered the mixed meat and cheese selection after being asked what we liked and were delighted with the food especially the truffle cheese. Great bottle of wine left to the owners discretion to choose. Really friendly staff. Best food experience of our long weekend in Paris.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "6",
+        "description": "Reserve well in advance for a seat at the counter where you can watch Kyoto chef Eichi Edakuni prepare a modern Japanese feast before your eyes.",
+        "district": "_18th",
+        "cover": [
+          {
+            "url": "/uploads/17273dd904c14c80b986e889f2e91121.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/0962dfef80ce4a4f968b2abe67dd5e1b.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/42a507e3fdf448a586cb9886192ebcd1.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/899f9f3eff6544eca26aca760633bf90.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Fusion",
+          "__typename": "Category"
+        },
+        "name": "GUILO GUILO",
+        "note": 3,
+        "price": "_4",
+        "reviews": [
+          {
+            "note": 3,
+            "content": "Underwhelmed\nIt’s a classic case of style of substance. The food was ok, the service was good, the knowledge of the server was good, but you get a feeling that your paying for the boogie environment then quality food.",
+            "__typename": "Review"
+          },
+          {
+            "note": 1,
+            "content": "Unacceptable standard for a Japanese restaurant\nWas over in Paris this week for my Europe tour and decided to check out Guilo Guilo after seeing all the largely positive reviews online. It was a cosy little place and it was nice to be greeted by a friendly mix of French & Japanese crew. English speaking crew are always a plus here in Paris.\n\nThey serve a secret Chef's menu or most call it the Omakase set that cost €55, which is incredibly overpriced if you'd ask me, but allow me get to that. First dish that came was a tiny glutinous rice dish that had Roasted Eel (Unagi) on it. I literally choked on it as the fine bones were stuck at the back of my throat. It's not my first time having Unagi, having eaten across the region and several times in some of Japan's finest establishments.\n\nUnagi bones are usually soft and edible, but this one I had was really tough and it got stuck and caused much pain and discomfort to me. When I informed the crew and chef, all they did was to get some sushi rice to get me to swallow, in the hole that it would help force the bone down my throat. I appreciate that gesture, I really do. And the crew apologised that the Unagi was all frozen during this season of time and they probably didn't do a thorough check on it.\n\nSo let's be very clear here. It is absolutely unacceptable for a Japanese restaurant or chef to present a dish that is of this standard to any guest. Known for their highest standards in culinary, you wouldn't expect anything like this. I was actually quite mad how the Japanese Chef just brushed the issue off very easily. It's not a small issue. That is not the Japanese way, so please do not tell me this is the norm. It's NOT. What a shame, and we only just started the evening with the bone stuck in my throat. Just horrible.\n\nAnd as much as I'd like to be objective, some of the other dishes throughout the night was okay and some below average. It was really mediocre. It seem as though the chef tried to be adventurous in his creations just for the sake of being adventurous. \n\nOverall, I wanna sum up this restaurant isn't awful when it comes to the taste department. But for the amount of money I dished out, I was expecting a lot more. Top up a little to the €55 and you could easily get a great experience at a Michelin Starred meal in Tokyo. \n\nI won't recommend anyone who's well travelled or foodie to come here that's for sure. You can't be great when the fundamentals are not done right. Much to learn from the real Japanese Takumi craftsmanship of food making.\n\nBest,\nEric",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Absolutely fabulous\nMy wife and I came here with a friend on a lovely summer Parisian evening. The restaurant is very cosy and the seating is bar-style around the central cooking area. The food was freshly prepared and of excellent quality. The fixed menu was full of fabulously prepared dishes full of wonderful flavours and odours. Each dish was marvelously explained in detail by the passionate waiter, and each one was beautifully arranged, almost a work of art. The menu isn't cheap but is worth every cent. We will come back again soon.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Absolutely brilliant\nWe had a fantastic night at this wonderful gem of a place. The staff was amazing, the great chef himself was there interacting with everyone, the food was exceptional, we made friends with some of the other diners, and by the end of it all, we were happy to pay the somewhat expensive bill as it wasn't just a meal, the whole thing was an incredible experience in itself.",
+            "__typename": "Review"
+          },
+          {
+            "note": 1,
+            "content": "Extremely overated\nThe food is not bad, it is just average. The price on the other hand is quite exceptional. As usual in paris the risk is to end up paying more for the concept than for the talent.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "25",
+        "description": "This place is so hygge, and we're all about it. With a dark wood interior, rustic accents, brocade wallpaper, and vintage photo frames, this bistro in the 10th arrondissement is the perfect spot for a cozy family Sunday dinner.",
+        "district": "_10th",
+        "cover": [
+          {
+            "url": "/uploads/7460f144ab584379a1ff61546b22fc89.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/68e4b61030e64343b496f9b34fd44fc2.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/7077c3f872734ff69ed963e0629fe7c5.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/46c7e9f67e8e4012bc7b86c004c532c1.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "French",
+          "__typename": "Category"
+        },
+        "name": "La Becane A Gaston",
+        "note": 5,
+        "price": "_1",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Great place for dinner\nMy wife and I reserved a table here for dinner on a Saturday evening. The small family restaurant was buzzing with happy diners - a great atmosphere which reflects the first class food that is prepared and served here. A lovely spot to relax and enjoy ourselves- thank you.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Excellent\nBest home made food with French touch ! Atmosphere, people, ingredients, clients everything is just so PARIS so Good",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Must go.\nMyself and 2 sisters came away for a few nights in Paris and were lucky enough to find this amazing gem. Superior food and magnificent prices. Every mouthful was a delight. Simple wholesome ingredients and great atmosphere made for a fabulous evening. French heart and soul. Ce magnifique!!! X",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Fabulous\nWe enjoyed the food here so much, we came twice in four days! Couldn’t fault it. Gets busy so booking essential",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Excellent\nVery friendly environment! Food quality very good! Even if the restaurant was very busy we were attended and have a great support. English speaking as well.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Brilliant Parisian Brunch!\nWe stumbled across this place whilst actually waiting for somewhere else where the queue was too long. And how glad we were!! \n\nTheir menu is simple but very delicious. We had two of their meat brunches with a cappuccino and fresh orange juice. \n\nEverything was really well done and delicious. A real gem.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "7",
+        "description": "The MiN is a restaurant with 2 rooms. One with a friendly atmosphere (like that of his big brother restaurant \"Le MiM\" in montreuil).\nAs well as a vaulted room more intimate and romantic.",
+        "district": "_11th",
+        "cover": [
+          {
+            "url": "/uploads/f2a502483a5f4d9db024185670323889.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/9e1b5bfc019a462781d10df1c20ed630.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/589acd0143df4609b170870fda629ce6.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/b2927120b21c40d08bb8d4829818b8cb.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Pub",
+          "__typename": "Category"
+        },
+        "name": "La MiN",
+        "note": 5,
+        "price": "_2",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Hidden gem\nThis place is definitely hidden gem of Paris. Amazing service and food that you can try in Paris. You won't be sorry for dining in this place for sure. I can't wait to come back here.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Wonderful\nDon't expect a fancy place! This gem is tucked away from the main tourist area. Everything was incredible..food, wine and service! Definitely returning on our next visit!!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Lovely dinner\nWe chose the fried mozzarella & crab cakes to start, both of which were lovely & crispy having been freshly prepared. Then we opted for the chicken kiev & steak. The steak was alright but the cut was a bit more gristly than expected, however the chicken was gorgeous, it was crispy & moist inside. They also happily accommodated my request to have the blue cheese sauce on the side! Dessert was the chocolate fondant which oozed with a gorgeous gooey centre, am amazing dessert!\n\nThe service was personal & all questions happily answered. The restaurant is cozy but it is Parisian after all!",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Great restaurant\nNot only the food was nice but the service was quick and friendly. For the quality of food and the environment, the price was very low. I wholeheartedly recommend this restaurant.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Great experience\nBrilliant, gorgeous, whimsical, delicious. We plan a meal here. Food, service, ambiance — everything is perfect. Unmatched. And unforgettable.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      },
+      {
+        "id": "19",
+        "description": "The Baron Rouge in the elegant and lively 12th arrondissement of Paris provides a friendly welcome and a taste of a \"local \" Parisian bar. The wines and cheeses are good, and the ambience convivial. My sons in their 20's recently visited on my recommendation and \"loved\" the feel of the bar. To quote them \"It felt like the real Paris, not a tourist trap.\" I totally agree with them.",
+        "district": "_12th",
+        "cover": [
+          {
+            "url": "/uploads/8bb416e5e6ba4b25b8d4f1b2a8e63b9d.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/37f1ee9be7e3470082e3231d71ece7c5.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/eebe1b8ed012402caefb001b403249a7.jpeg",
+            "__typename": "UploadFile"
+          },
+          {
+            "url": "/uploads/84aa457c19c04c59bf6f7142f6335576.jpeg",
+            "__typename": "UploadFile"
+          }
+        ],
+        "category": {
+          "name": "Wine Bar",
+          "__typename": "Category"
+        },
+        "name": "Le Baron Rouge",
+        "note": 4.8,
+        "price": "_1",
+        "reviews": [
+          {
+            "note": 5,
+            "content": "Le Baron Rouge Bar\nThe Baron Rouge in the elegant and lively 12th arrondissement of Paris provides a friendly welcome and a taste of a \"local \" Parisian bar. The wines and cheeses are good, and the ambience convivial. My sons in their 20's recently visited on my recommendation and \"loved\" the feel of the bar. To quote them \"It felt like the real Paris, not a tourist trap.\" I totally agree with them.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Pleasant wine bar away from the bustle\nI was able to pay a visit to Le Baron Rouge last week. It was a bit further away from any other places I had been to. Perhaps that is part of the draw because there really were not many tourists around except for yours truly.\n\nI got there just after they opened at 5 pm. I sat at a small table and looked over the wine menus on the wall. Having settled on a red I was good to go and placed my drink order with the bartender. He spoke English and was friendly.\n\nEveryone else that made their way in seemed to be locals coming to talk story over a glass of wine and for some small glasses of beer. It was very laid back and relaxed. I did not see anyone order any food nor was anyone present with oysters. I suppose that I struck out there as I was looking forward to some.\n\nI enjoyed 3 glasses of wine and then ventured on. The wines to be found here are pretty extensive. A cozy little bar to enjoy some lovely drinks without feeling that you are in a tourist trap. If that's your type of thing then you would enjoy this place.",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Fresh oysters and good wine\naffordable place: we had 2 dozen oysters and 4 glasses of good wine, payed less than 50€. We came around 5pm. Nice local atmosphere - We liked it a lot.",
+            "__typename": "Review"
+          },
+          {
+            "note": 4,
+            "content": "A Very Favorite Wine Bar\nWhen we are in Paris we “”always””stop here for snacks, for its great atmosphere, for the very wide variety of choices of wine and to participate in a very old tradition in this section of Paris.. it is so wonderfully casual that we feel right at home immediately when we enter.. very friendly atmosphere... an absolute must... worth a metro trip...",
+            "__typename": "Review"
+          },
+          {
+            "note": 5,
+            "content": "Great local wine bar with amazing prices\nWhile walking the neighborhood we stopped for few glasses of wine in this lovely small French wine bar. As we couldn't decide what to choose friendly waiter recommended us some wine that we really liked and after few glasses we went home with two bottles of natural wine. Atmosphere was really great and friendly, customers were mostly French and you can really enjoy the experience of local life far from tourist traps and attractions. Prices are really good, you can enjoy good quality wine for more than acceptable price.",
+            "__typename": "Review"
+          }
+        ],
+        "__typename": "Restaurant"
+      }
+    ],
+    "restaurantsConnection": {
+      "aggregate": {
+        "count": 29,
+        "__typename": "RestaurantAggregator"
+      },
+      "__typename": "RestaurantConnection"
+    },
+    "categories": [
+      {
+        "id": "1",
+        "name": "French",
+        "__typename": "Category"
+      },
+      {
+        "id": "2",
+        "name": "Contemporary",
+        "__typename": "Category"
+      },
+      {
+        "id": "3",
+        "name": "Italian",
+        "__typename": "Category"
+      },
+      {
+        "id": "4",
+        "name": "Mexican",
+        "__typename": "Category"
+      },
+      {
+        "id": "5",
+        "name": "Burgers",
+        "__typename": "Category"
+      },
+      {
+        "id": "6",
+        "name": "Fusion",
+        "__typename": "Category"
+      },
+      {
+        "id": "7",
+        "name": "Korean",
+        "__typename": "Category"
+      },
+      {
+        "id": "8",
+        "name": "Mediterranean",
+        "__typename": "Category"
+      },
+      {
+        "id": "9",
+        "name": "Vegan",
+        "__typename": "Category"
+      },
+      {
+        "id": "10",
+        "name": "Local",
+        "__typename": "Category"
+      },
+      {
+        "id": "11",
+        "name": "Japanese",
+        "__typename": "Category"
+      },
+      {
+        "id": "12",
+        "name": "Pub",
+        "__typename": "Category"
+      },
+      {
+        "id": "13",
+        "name": "Wine Bar",
+        "__typename": "Category"
+      },
+      {
+        "id": "14",
+        "name": "Indian",
+        "__typename": "Category"
+      },
+      {
+        "id": "15",
+        "name": "Vietnamese",
+        "__typename": "Category"
+      },
+      {
+        "id": "16",
+        "name": "Fast Food",
+        "__typename": "Category"
+      },
+      {
+        "id": "17",
+        "name": "Peruvien",
+        "__typename": "Category"
+      },
+      {
+        "id": "18",
+        "name": "Fish",
+        "__typename": "Category"
+      },
+      {
+        "id": "19",
+        "name": "Lebanese",
+        "__typename": "Category"
+      },
+      {
+        "id": "20",
+        "name": "Dessert",
+        "__typename": "Category"
+      },
+      {
+        "id": "21",
+        "name": "African",
+        "__typename": "Category"
+      },
+      {
+        "id": "22",
+        "name": "Brazilian",
+        "__typename": "Category"
+      }
+    ]
+  }
+}
