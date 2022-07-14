@@ -24,7 +24,6 @@ module.exports = createCoreController('api::restaurant-about.restaurant-about', 
     // console.log('response==', response);
 
     // some more logic
-
     const time = new Date().getTime();
   
     return {data, meta, time};
