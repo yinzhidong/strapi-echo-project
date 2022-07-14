@@ -55,3 +55,32 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+
+
+
+
+```
+cd /Users/yinzhidong/nodePros/strapi-echo-project
+nvm use 16.15.1 && yarn develop
+
+
+
+# 静态资源
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/configurations/optional/public-assets.html
+
+
+https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-configuration-dump
+
+
+
+yarn strapi generate
+
+yarn strapi admin:reset-user-password --email="YOUR_EMAIL" --password="YOUR_NEW_PASSWORD"
+
+yarn strapi admin:reset-user-password --email="echoyinjava@163.com" --password="12passechoEcho"
+
+
+npm run strapi admin:reset-user-password --email="YOUR_EMAIL" --password="YOUR_NEW_PASSWORD".
+
+```
