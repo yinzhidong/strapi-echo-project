@@ -16,6 +16,16 @@ module.exports = {
       method: "GET",
       path: "/cars/backupData",
       handler: "car.backupData"
+    },
+
+    // 覆盖findOne
+    {
+      method: "GET",
+      path: "/cars/:code",
+      handler: "car.findOne",
+      confirm: {
+        // auth: false
+      }
     }
   ]
 

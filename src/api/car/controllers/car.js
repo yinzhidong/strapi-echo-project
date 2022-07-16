@@ -31,6 +31,23 @@ module.exports = createCoreController("api::car.car", ({ strapi }) => ({
   },
 
 
+  /**
+   * 覆写findOne，不使用id继续查询
+   * @param {*} ctx 
+   * @returns 
+   */
+  async findOne(ctx) {
+    const {code} = ctx.params;
+
+    const entity = await strapi.db.query('api::car.car').findOne({
+      where: {code}
+    });
+
+    const sanitizedEntity = await this.sanitizeOutput(entity);
+    return this.transformResponse(sanitizedEntity);
+  },
+
+
 
   /**
    * koa备份文件
